@@ -2,7 +2,7 @@
 Simple Landing page for showcase your soical media links easily. The wesbsite shows your top skills and social media links. There is also small section where you write about yourself.
 The small section has a typewriter effect that look cool😎
 
-[Visit here 🚀](https://rghvgrv.github.io/ProfileCard/)
+[Visit here 🚀](https://rghvgrv.github.io/ProfileCard/) 
 
 # Screenshot
 
